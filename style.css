@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:20px;
+}
+
+input, textarea{
+    width:300px;
+    padding:8px;
+    margin-bottom:10px;
+}
+
+button{
+    padding:10px;
+    margin-top:10px;
+}
+
+#resume{
+    margin-top:20px;
+    border:1px solid black;
+    padding:20px;
+}
